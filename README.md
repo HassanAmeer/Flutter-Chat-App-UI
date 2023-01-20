@@ -1,21 +1,16 @@
-# Flutter-Chat-App-UI
-By Flutter simple Chatting App UI Only
+# ralestate
 
-easy to understand all codes every One Can Study These File Codes
+A new Flutter project.
 
-<code> Flutter dart </code>
+## Getting Started
 
-<i> <p style="color:orange;"> if any Problems Can Contact Feel Free </p> </i>
+This project is a starting point for a Flutter application.
 
-❤❤❤❤❤❤ 
+A few resources to get you started if this is your first Flutter project:
 
-<i> Marketeplace </i>
-<br> </br>
-![snippets in action](https://github.com/HassanAmeer/Flutter-Pdf-Extra-All-In-One-Ui/blob/main/loadcat.gif)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-
-
-
-# Screenshots Demo
-<img src='tiktok demo.png'>
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
